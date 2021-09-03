@@ -1,0 +1,34 @@
+.titel {
+    font-size: 46px;
+    position: absolute;
+    left: 45%;
+}
+
+.tijdlijn-titel {
+    font-size: 32px;
+    position: absolute;
+    left: 47%;
+    top: 150px;
+
+    color: darkred;
+}
+
+.tijdlijn {
+    position: absolute;
+    top: 250px;
+}
+
+.reflectie-titel {
+    font-size: 32px;
+    position: absolute;
+    top: 385px;
+    left: 46%;
+
+    color: darkred;
+}
+
+.reflectie {
+    position: absolute;
+    top: 500px;
+    left: 23.5%;
+}
